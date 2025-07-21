@@ -1,0 +1,5 @@
+train: D:\Datasets\0Accidentes\PPE\train
+val: D:\Datasets\0Accidentes\PPE\val
+
+nc: 9
+names: ['Boots', 'Gloves', 'Helmet', 'Human', 'No Boots', 'No Gloves', 'No Helmet', 'No Vest', 'Vest']
